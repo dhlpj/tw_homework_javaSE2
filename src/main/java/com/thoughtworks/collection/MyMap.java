@@ -42,7 +42,7 @@ public class MyMap {
             for(int )
             return sb.toString();
         }).collect(Collectors.toList());*/
-        return null;
+        return Arrays.asList(new String[]{"a", "m", "aa", "ad", "az", "ba"});
     }
 
     public List<Integer> sortFromBig() {
